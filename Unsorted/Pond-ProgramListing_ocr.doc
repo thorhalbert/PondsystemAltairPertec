@@ -1,0 +1,3060 @@
+{\rtf1\ansi\ansicpg1252\uc1\deflang1033\adeflang1033\deflangfe1033\deff1\stshfloch1\stshfhich1\stshfbi1\stshfdbch1
+{\fonttbl
+{\f0\fswiss\fcharset0 Arial;}
+{\f1\fnil\fcharset0 Times New Roman;}
+}
+{\colortbl
+;
+\red0\green0\blue0
+;
+\red0\green0\blue255
+;
+\red0\green255\blue255
+;
+\red0\green255\blue0
+;
+\red255\green0\blue255
+;
+\red255\green0\blue0
+;
+\red255\green255\blue0
+;
+\red255\green255\blue255
+;
+\red0\green0\blue128
+;
+\red0\green128\blue128
+;
+\red0\green128\blue0
+;
+\red128\green0\blue128
+;
+\red128\green0\blue0
+;
+\red128\green128\blue0
+;
+\red128\green128\blue128
+;
+\red192\green192\blue192
+;
+}
+{\*\defchp\fs24\afs24\loch\af1\hich\af1\dbch\af1}
+{\*\defpap\aspalpha\aspnum\faauto\adjustright\cgrid\li0\ri0\ltrpar\ql\fi0\sb0\sa0\sl240\slmult1}
+{\stylesheet
+{\aspalpha\aspnum\faauto\adjustright\cgrid\li0\ri0\ltrpar\ql\fi0\sb0\sa0\sl240\slmult1\lang1033\langfe1033\f1\cf1\expndtw0\charscalex100
+\dn0\fs24\afs24 Normal;}
+{\*\cs10\additive Default Paragraph Font;}
+{\*\cs15\additive\f0\b0\i0\scaps0\strike0\fs15\afs15\ul0\sbasedon10\slink20 Body text|1_;}
+{\*\cs17\additive\f0\b0\i0\scaps0\strike0\fs15\afs15\ul0\sbasedon10\slink21 Table of contents|1_;}
+{\*\cs19\additive\f0\b0\i0\scaps0\strike0\fs15\afs15\ul0\sbasedon10\slink22 Other|1_;}
+{\s20\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\scaps0\strike0\fs15\afs15\ul0\sbasedon0\slink15 Body text|1;}
+{\s21\aspalpha\aspnum\faauto\adjustright\cgrid\sl230\slmult1\f0\b0\i0\scaps0\strike0\fs15\afs15\ul0\sbasedon0\slink17 Table
+ of contents|1;}
+{\s22\aspalpha\aspnum\faauto\adjustright\cgrid\f0\b0\i0\scaps0\strike0\fs15\afs15\ul0\sbasedon0\slink19 Other|1;}
+}
+{\*\listtable
+{\list\listtemplateid0
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000001 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000002 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000003 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000004 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000005 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000006 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000007 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000008 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000009 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid1}
+{\list\listtemplateid2
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000010 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000011 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000012 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000013 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000014 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000015 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000016 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000017 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000018 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid3}
+{\list\listtemplateid4
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000019 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000020 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000021 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000022 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000023 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000024 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000025 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000026 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000027 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid5}
+{\list\listtemplateid6
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000028 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000029 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000030 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000031 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000032 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000033 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000034 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000035 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000036 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid7}
+{\list\listtemplateid8
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000037 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000038 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000039 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000040 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000041 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000042 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000043 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000044 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000045 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid9}
+{\list\listtemplateid10
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000046 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000047 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000048 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000049 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000050 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000051 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000052 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000053 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000054 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid11}
+{\list\listtemplateid12
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000055 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000056 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000057 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000058 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000059 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000060 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000061 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000062 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000063 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid13}
+{\list\listtemplateid14
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000064 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000065 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000066 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000067 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000068 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000069 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000070 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000071 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000072 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid15}
+{\list\listtemplateid16
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000073 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000074 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000075 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000076 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000077 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000078 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000079 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000080 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000081 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid17}
+{\list\listtemplateid18
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000082 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000083 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000084 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000085 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000086 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000087 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000088 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000089 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat10\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000090 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid19}
+{\list\listtemplateid20
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000091 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000092 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000093 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000094 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000095 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000096 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000097 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000098 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000099 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid21}
+{\list\listtemplateid22
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000100 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000101 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000102 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000103 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000104 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000105 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000106 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000107 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000108 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid23}
+{\list\listtemplateid24
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000109 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000110 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000111 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000112 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000113 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000114 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000115 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000116 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000117 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid25}
+{\list\listtemplateid26
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000118 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000119 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000120 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000121 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000122 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000123 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000124 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000125 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000126 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid27}
+{\list\listtemplateid28
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000127 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000128 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000129 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000130 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000131 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000132 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000133 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000134 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000135 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid29}
+{\list\listtemplateid30
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000136 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000137 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000138 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000139 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000140 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000141 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000142 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000143 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat7\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000144 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid31}
+{\list\listtemplateid32
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat6\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000145 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat6\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000146 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat6\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000147 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat6\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000148 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat6\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000149 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat6\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000150 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat6\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000151 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat6\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000152 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat6\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000153 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid33}
+{\list\listtemplateid34
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000154 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000155 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000156 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000157 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000158 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000159 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000160 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000161 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000162 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid35}
+{\list\listtemplateid36
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000163 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000164 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000165 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000166 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000167 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000168 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000169 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000170 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000171 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid37}
+{\list\listtemplateid38
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000172 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000173 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000174 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000175 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000176 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000177 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000178 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000179 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000180 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid39}
+{\list\listtemplateid40
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000181 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000182 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000183 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000184 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000185 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000186 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000187 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000188 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000189 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid41}
+{\list\listtemplateid42
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000190 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000191 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000192 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000193 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000194 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000195 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000196 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000197 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000198 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid43}
+{\list\listtemplateid44
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000199 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000200 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000201 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000202 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000203 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000204 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000205 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000206 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000207 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid45}
+{\list\listtemplateid46
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000208 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000209 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000210 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000211 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000212 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000213 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000214 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000215 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000216 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid47}
+{\list\listtemplateid48
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000217 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000218 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000219 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000220 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000221 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000222 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000223 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000224 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000225 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid49}
+{\list\listtemplateid50
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000226 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000227 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000228 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000229 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000230 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000231 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000232 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000233 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000234 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid51}
+{\list\listtemplateid52
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000235 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000236 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000237 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000238 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000239 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000240 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000241 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000242 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\chcbpat8\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000243 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid53}
+{\list\listtemplateid54
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000244 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000245 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000246 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000247 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000248 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000249 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000250 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000251 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000252 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid55}
+{\list\listtemplateid56
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000253 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000254 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000255 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000256 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000257 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000258 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000259 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000260 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000261 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid57}
+{\list\listtemplateid58
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000262 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000263 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000264 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000265 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000266 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000267 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000268 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000269 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000270 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid59}
+{\list\listtemplateid60
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000271 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000272 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000273 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000274 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000275 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000276 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000277 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000278 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000279 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid61}
+{\list\listtemplateid62
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000280 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000281 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000282 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000283 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000284 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000285 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000286 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000287 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000288 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid63}
+{\list\listtemplateid64
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000289 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000290 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000291 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000292 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000293 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000294 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000295 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000296 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000297 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid65}
+{\list\listtemplateid66
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000298 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000299 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000300 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000301 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000302 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000303 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000304 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000305 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000306 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid67}
+{\list\listtemplateid68
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000307 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000308 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000309 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000310 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000311 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000312 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000313 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000314 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0
+\charscalex100\dn0\fs15\afs15\ul0\levelspace0\levelindent0
+{\leveltext\leveltemplateid1000315 \'01\'00;}
+{\levelnumbers \'01;}
+}
+{\listname ;}
+\listid69}
+}
+{\*\listoverridetable
+{\listoverride\listid1\listoverridecount0\ls1}
+{\listoverride\listid3\listoverridecount0\ls3}
+{\listoverride\listid5\listoverridecount0\ls5}
+{\listoverride\listid7\listoverridecount0\ls7}
+{\listoverride\listid9\listoverridecount0\ls9}
+{\listoverride\listid11\listoverridecount0\ls11}
+{\listoverride\listid13\listoverridecount0\ls13}
+{\listoverride\listid15\listoverridecount0\ls15}
+{\listoverride\listid17\listoverridecount0\ls17}
+{\listoverride\listid19\listoverridecount0\ls19}
+{\listoverride\listid21\listoverridecount0\ls21}
+{\listoverride\listid23\listoverridecount0\ls23}
+{\listoverride\listid25\listoverridecount0\ls25}
+{\listoverride\listid27\listoverridecount0\ls27}
+{\listoverride\listid29\listoverridecount0\ls29}
+{\listoverride\listid31\listoverridecount0\ls31}
+{\listoverride\listid33\listoverridecount0\ls33}
+{\listoverride\listid35\listoverridecount0\ls35}
+{\listoverride\listid37\listoverridecount0\ls37}
+{\listoverride\listid39\listoverridecount0\ls39}
+{\listoverride\listid41\listoverridecount0\ls41}
+{\listoverride\listid43\listoverridecount0\ls43}
+{\listoverride\listid45\listoverridecount0\ls45}
+{\listoverride\listid47\listoverridecount0\ls47}
+{\listoverride\listid49\listoverridecount0\ls49}
+{\listoverride\listid51\listoverridecount0\ls51}
+{\listoverride\listid53\listoverridecount0\ls53}
+{\listoverride\listid55\listoverridecount0\ls55}
+{\listoverride\listid57\listoverridecount0\ls57}
+{\listoverride\listid59\listoverridecount0\ls59}
+{\listoverride\listid61\listoverridecount0\ls61}
+{\listoverride\listid63\listoverridecount0\ls63}
+{\listoverride\listid65\listoverridecount0\ls65}
+{\listoverride\listid67\listoverridecount0\ls67}
+{\listoverride\listid69\listoverridecount0\ls69}
+}
+{\info
+{\title}
+{\subject}
+{\author}
+{\keywords}
+}
+\paperw8400\paperh11900\margl360\margr360\margt360\margb360\gutter0\viewkind1\viewzk1\fet2\splytwnine\ftnlytwnine\htmautsp\useltbaln\alntblind
+\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\newtblstyruls\nogrowautofit\usenormstyforlist
+\noindnmbrts\felnbrelev\nocxsptable\indrlsweleven\noafcnsttbl\afelev\utinl\hwelev\spltpgpar\notcvasp\notvatxbx\krnprsnet\cachedcolbal\noxlattoyen
+\noultrlspc\dntblnsbdb\nospaceforul\nolnhtadjtbl\notbrkcnstfrctbl\dgmargin\dghspace181\dgvspace181\dghshow1\dgvshow1\sectd\ltrsect\headery0
+\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\pvpg\phpg\posx3\posy343\absh-3447\absw1186\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 05/05/80 96 05/05/80 5 05/05/80
+ 8 05/05/80 3 04/29/80 3 04/29/80 5 04/29/80 5 04/29/80 5 04/29/80 1 04/29/80 1 04/29/80 4 04/29/80 2 04/29/80 1 04/29/80
+ 4 04/29/80 1 04/29/80 6 04/29/80 1 04/29/80 6 04/29/80 8 04/29/80 1}
+\par
+\pard\plain\qj\pvpg\phpg\posx71\posy3795\absh-7598\absw877\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 04/29/80 04/29/80 04/29/80
+ 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80
+ 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/28/80 04/23/80 04/23/80 04/23/80 04/23/80 04/23/80}
+\par
+\pard\plain\qj\pvpg\phpg\posx71\posy3795\absh-7598\absw877\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 04/23/80 04/22/80 04/22/80
+ 04/21/80 04/20/80 04/19/80 04/19/80 04/19/80}
+\par
+\pard\plain\qj\pvpg\phpg\posx71\posy3795\absh-7598\absw877\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 04/19/80 04/19/80 04/19/80
+ 04/19/80 4/19/808 4/19/808 04/19/80}
+\par
+\pard\plain\pvpg\phpg\posx1003\posy3795\absh-694\absw140\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\sl228\slmult1\pvpg\phpg\posx1003\posy3795\absh-694\absw140\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\pvpg\phpg\posx1003\posy3795\absh-694\absw140\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 7}
+\par
+\pard\plain\pvpg\phpg\posx1003\posy3795\absh-694\absw140\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\qj\sa140\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\sa140\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 6}
+\par
+\pard\plain\qj\sa140\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 9}
+\par
+\pard\plain\qj\sa140\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\qj\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4}
+\par
+\pard\plain\qj\sl228\slmult1\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4}
+\par
+\pard\plain\qj\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4}
+\par
+\pard\plain\qj\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\sl223\slmult1\pvpg\phpg\posx1003\posy4812\absh-2863\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx1003\posy8162\absh-1029\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx1003\posy8162\absh-1029\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 6}
+\par
+\pard\plain\qj\sl223\slmult1\pvpg\phpg\posx1003\posy8162\absh-1029\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\sa160\pvpg\phpg\posx1003\posy8162\absh-1029\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx1003\posy8162\absh-1029\absw148\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\pvpg\phpg\posx990\posy9691\absh-1533\absw246\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\pvpg\phpg\posx990\posy9691\absh-1533\absw246\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\sl228\slmult1\pvpg\phpg\posx990\posy9691\absh-1533\absw246\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 7}
+\par
+\pard\plain\pvpg\phpg\posx990\posy9691\absh-1533\absw246\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx990\posy9691\absh-1533\absw246\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 10}
+\par
+\pard\plain\qj\sl228\slmult1\pvpg\phpg\posx990\posy9691\absh-1533\absw246\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 10}
+\par
+\pard\plain\pvpg\phpg\posx990\posy9691\absh-1533\absw246\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 10}
+\par
+\pard\plain\pvpg\phpg\posx990\posy9691\absh-1533\absw246\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 9}
+\par
+\pard\plain\sl228\slmult1\pvpg\phpg\posx990\posy9691\absh-1533\absw246\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4}
+\par
+\pard\plain\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 98 PROGMAN?1(463) - SUR
+ - Surgical sort and print recievable}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark0}
+{\*\bkmkend bookmark0}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 RUNOFF?1(462) - RUNOFF? Text
+ processing system from DEC-10 RUN}
+\par
+\pard\plain\tx374\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 10\'09\tab}
+\ls3\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark1}
+{\*\bkmkend bookmark1}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 S0S?l(461) - SOS? Ascii file
+ editor From Dec-10 SOS? Thor-1}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls5\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark2}
+{\*\bkmkend bookmark2}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 QUEUE?l(460) - QUEUE? line-printer
+ listing controller? THOR-D}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls7\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark3}
+{\*\bkmkend bookmark3}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SURMENU?1(459) - SURMENU -
+ SURGICAL MAINTENANCE MENU - THOR}
+\par
+\pard\plain\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 7 SURSCLS?1(458) - SURSCLS
+ - Archive screening list}
+\par
+\pard\plain\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 7 SURDLIST?1(457) - SURDLIST
+ - List out doctor oriented patient li}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls9\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark4}
+{\*\bkmkend bookmark4}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SURDOC?1(456) - SURDOC - Spools
+ out the doctor oriented lists}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls11\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark5}
+{\*\bkmkend bookmark5}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SUREDIT?1(455) - SUREDIT -
+ Allows individual entries to be edit}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls13\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark6}
+{\*\bkmkend bookmark6}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SURCONV?1(454) - SURCONV? Surgical
+ code find and replace? THOR-}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls7\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark7}
+{\*\bkmkend bookmark7}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 F'RTCROSS? 1 (453) - F'RTCROSS?
+ Cross reference printer}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls13\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark8}
+{\*\bkmkend bookmark8}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SURCRSS2?1(452) - SURCRSS2
+ - SURGICAL CROSS REFERENCE PROGRAM}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark9}
+{\*\bkmkend bookmark9}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SURALLS?1(451) - SURALLS? prints
+ out alpha code listing? THOR-1}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls5\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark10}
+{\*\bkmkend bookmark10}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SURLIST?1(450) - SURLIST? Archive
+ text listing program? THOR-1/}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls17\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark11}
+{\*\bkmkend bookmark11}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SURSPLL?1(449) - SURSPLL -
+ Program to spool off data for lists}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 8\'09\tab}
+\ls9\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark12}
+{\*\bkmkend bookmark12}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SNOMED?1(448) - SNOMED? Surgical
+ archive controller? THOR SUMM 3 SUROUT?1(447) - SUROUT - Program to print surgical reports - T}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 8\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark13}
+{\*\bkmkstart bookmark14}
+{\*\bkmkend bookmark13}
+{\*\bkmkend bookmark14}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 CANF'OC?1(446) - CANPOC purely
+ canned surgical reports? THOR-1/}
+\par
+\pard\plain\tx374\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 10\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark15}
+{\*\bkmkend bookmark15}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SURREP?1(445) - SURREP? SURGICAL
+ REPORT GENERATOR? THOR}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark16}
+{\*\bkmkend bookmark16}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 CONSCQQ?1(444) - CONSCRQ}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark17}
+{\*\bkmkend bookmark17}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 CONSEC?1(443) - ASCRC - Lists
+ out random files - THOR}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls25\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark18}
+{\*\bkmkend bookmark18}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 MICROS?1(442) - MICROS - Build
+ microscopies for canned surgica}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 9\'09\tab}
+\ls1\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark19}
+{\*\bkmkend bookmark19}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 CANSUR?1(441) - CANSUR - Canned
+ surgical program - THOR}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls27\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark20}
+{\*\bkmkend bookmark20}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 TRI?1(437) - GENERALISED ALGORITHM
+ FOR FILLING AN ARRAY WIT}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls27\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark21}
+{\*\bkmkend bookmark21}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 INTRO?2(436) - NO COMMENT LINES
+ FOR NAME}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls5\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark22}
+{\*\bkmkend bookmark22}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DAILY4?2(435) - s screening
+ list}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls27\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark23}
+{\*\bkmkend bookmark23}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DAILY3?2(434) - NO COMMENT
+ LINES FOR NAME}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls7\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark24}
+{\*\bkmkend bookmark24}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DAILY2?2(433) - NO COMMENT
+ LINES FOR NAME}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 8\'09\tab}
+\ls7\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark25}
+{\*\bkmkend bookmark25}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DAILY?2(432) - s.}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls25\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark26}
+{\*\bkmkend bookmark26}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 /HARD2?2(431) - NO COMMENT
+ LINES FOR NAME}
+\par
+\pard\plain\tx374\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 11\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark27}
+{\*\bkmkend bookmark27}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 /HARD?2(430) - NO COMMENT LINES
+ FOR NAME}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark28}
+{\*\bkmkend bookmark28}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DIRPROG?1(429) - DIRPROG -
+ Produce global directory file - PERT}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls29\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark29}
+{\*\bkmkend bookmark29}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DISKU?1(428) - DISKU - Computes
+ disk usage statistics - THOR}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls31\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark30}
+{\*\bkmkend bookmark30}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 RUNOFF?1(427) - RUNOFF? Text
+ processing system from DEC-10 RUN}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark31}
+{\*\bkmkend bookmark31}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 PR MENU?2(426) - PR MENU -
+ PAYROLL MENU? CUR? 11/21/77?04/19/78}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark32}
+{\*\bkmkend bookmark32}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 GL MENU?2(425) - GL MENU -
+ GENERAL LEDGER MENU? 7/7/78}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls27\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark33}
+{\*\bkmkend bookmark33}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 AR MENU?2(424) - AR MENU? ACCOUNTS
+ RECIEUABLE PROGRAM? THOR - 1}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls33\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark34}
+{\*\bkmkend bookmark34}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 AP MENU?2(423) - AP MENU -
+ ACCOUNTS PAYABLE MENU? 7/14/78? 8/7/}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls25\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark35}
+{\*\bkmkend bookmark35}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 *PTFIL?2(422) - *PTFIL - PATIENT
+ FILE MAINTENANCE MENU - THOR}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls13\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark36}
+{\*\bkmkend bookmark36}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 #PTACT?2(421) - &PTACT - Laboratory
+ accounting program - THOR}
+\par
+\pard\plain\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5 SURMENU?2(420) - SURMENU
+ - SURGICAL MAINTENANCE MENU - THOR}
+\par
+\pard\plain\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5 SYSMENU?2(419) - SYSMENU
+ - SYSTEM MAINTENANCE MENU - THOR - 20-}
+\par
+\pard\plain\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5 PROGRAM?2(418) - PROGRAM?
+ Pondsystem main menu? THOR summer/79}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls29\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark37}
+{\*\bkmkend bookmark37}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 NEW.BKB?1(417) - NEW.BKD -
+ Prints bank deposit? - SHACK - USED?}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark38}
+{\*\bkmkend bookmark38}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 BK.PRO?1(416) - BK.PRO - Bank
+ deposit program rewrite - THOR}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls17\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark39}
+{\*\bkmkend bookmark39}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 NEW.BKD?1(415) - NEW.BKD -
+ Prints bank deposit? - SHACK - USED?}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls17\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark40}
+{\*\bkmkend bookmark40}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPT.INS?1(414) - OPT.INS? Insurance
+ form printer? THOR-SUMMER/7}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 8\'09\tab}
+\ls31\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark41}
+{\*\bkmkend bookmark41}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS?1(413) - OBILLS - MASTER
+ BILLING PROGRAM - THOR - 18-MA}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls21\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark42}
+{\*\bkmkend bookmark42}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLOU?1(412) - OPTLOU - PATIENT
+ FILE LISTING PROGRAM - THOR}
+\par
+\pard\plain\tx310\tqr\tx1871\tqr\tx2578\tqr\tx2782\tx2983\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls29\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark43}
+{\*\bkmkend bookmark43}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLIS?1(411)\tab -\tab OPTLIS\tab
+-\tab PATIENT FILE LISTING CONTROLLER}
+\par
+\pard\plain\tx310\tqr\tx1871\tqr\tx2578\tqr\tx2782\tx2983\tqr\tx6565\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay
+\s21\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls33\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark44}
+{\*\bkmkend bookmark44}
+{\cs17\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OTRACT?1(410)\tab -\tab OTRACT\tab
+-\tab Transaction file maintenance and\tab acco}
+\par
+\pard\plain\tx310\tx2906\tqr\tx6565\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s21\aspalpha\aspnum\faauto\adjustright
+\cgrid
+{\cs17\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5\tab OPTLOUT?1(409) - OPTLOUT\tab
+- PATIENT FILE LISTING PROGRAM -\tab THOR}
+\par
+\pard\plain\tx310\tqr\tx1871\tqr\tx2578\tqr\tx2784\tx2987\tqr\tx6565\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay
+\s21\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls27\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark45}
+{\*\bkmkend bookmark45}
+{\cs17\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OTRACT?1(408)\tab -\tab OTRACT\tab
+-\tab Transaction file maintenance and\tab acco}
+\par
+\pard\plain\tx310\tqr\tx1871\tqr\tx2578\tqr\tx2784\tx2987\tqr\tx6565\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay
+\s21\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs17\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 7\tab OTRACT?1(407)\tab
+-\tab OTRACT\tab -\tab Transaction file maintenance and\tab acco}
+\par
+\pard\plain\tx310\tqr\tx1871\tqr\tx2578\tqr\tx2788\tx2991\tqr\tx6565\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay
+\s21\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs17\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 7\tab OTRACT?1(406)\tab
+-\tab OTRACT\tab -\tab Transaction file maintenance and\tab acco}
+\par
+\pard\plain\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5 PROGRAM?1(405) - PROGRAM?
+ Pondsystem main menu? THOR summer/79 3 DYCL?1(404) - NO COMMENT LINES FOR NAME}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 9\'09\tab}
+\ls31\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark46}
+{\*\bkmkend bookmark46}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 tINV.UTI?1(403) - $INV.UTI?
+ INVENTORY MANAGEMENT UTILITY PROGRAM}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls35\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark47}
+{\*\bkmkend bookmark47}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SINV.STA,1(402) - MNV.STA?
+ INVENTORY STARTUP PROGRAM? 11/02/78}
+\par
+\pard\plain\tx374\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 12\'09\tab}
+\ls19\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark48}
+{\*\bkmkend bookmark48}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 $INV.RG?1(401) - $INV.RG? REPORT
+ GENERATION PROGRAM? 11/03/78RB 12 $INV.POS?1(400) - 4INV.P0S? INVENTORY POINT OF SALES? 11/03/78RB 12 $INV.IU?1(399) - &INV.IU?
+ INVENTORY UPDATE? 11/03/78RB}
+\par
+\pard\plain\tx357\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 11\'09\tab}
+\ls3\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark49}
+{\*\bkmkend bookmark49}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 $INV.IFM?1(398) - $INV,IFM?
+ INVENTORY FILE MAINTENANCE? 11/03/78}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls35\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark50}
+{\*\bkmkend bookmark50}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 $INV.IFI?1(397) - *** IFIX
+ - FIX AN ISAM FILE ( IF POSSIBLE)}
+\par
+\pard\plain\tx310\qj\sl230\slmult1\pvpg\phpg\posx1358\posy339\absh-11096\absw6925\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls35\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark51}
+{\*\bkmkend bookmark51}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4TRACT?1(396)}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul  }
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 -}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul  }
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OTRACT}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul  }
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 -}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul  }
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 Transaction file maintenance
+ and acco}
+\par
+\pard\plain\sl-1\slmult0\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid
+\sect
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\qj\pvpg\phpg\posx46\posy356\absh-11007\absw923\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 04/21/80 04/21/80 04/21/80
+ 04/14/80 04/14/80 04/14/80 04/14/80 04/14/80 04/08/80 04/08/80 04/08/80 04/08/80 04/08/80 03/31/80 03/31/80 03/31/80 03/31/80
+ 03/31/80 03/31/80 03/31/80 03/31/80 03/28/80 03/27/80 03/27/80 03/27/80 03/26/80 03/26/80 03/26/80 03/24/80 03/24/80 03/22/80
+ 03/24/80 03/21/80 03/20/80 03/20/80 03/20/80 03/20/80 03/20/80 03/19/80 03/19/80 03/18/80 03/18/80 03/18/80 03/18/80 03/18/80
+ 03/17/80 03/17/80 03/17/80 03/14/80 03/14/80 03/14/80 03/13/80 03/13/80 03/09/80 03/09/80 03/09/80 03/09/80 03/09/80 03/09/80
+ 03/08/80 03/08/80 03/08/80 03/07/80 03/06/80 03/06/80}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 6}
+\par
+\pard\plain\qj\sl228\slmult1\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\sl228\slmult1\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\sl223\slmult1\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\qj\sl223\slmult1\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\sl228\slmult1\pvpg\phpg\posx999\posy377\absh-2736\absw161\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\pvpg\phpg\posx1020\posy3274\absh-707\absw144\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\pvpg\phpg\posx1020\posy3274\absh-707\absw144\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\pvpg\phpg\posx1020\posy3274\absh-707\absw144\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3 0}
+\par
+\pard\plain\pvpg\phpg\posx1037\posy4113\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 10}
+\par
+\pard\plain\pvpg\phpg\posx1024\posy4769\absh-864\absw250\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\pvpg\phpg\posx1024\posy4769\absh-864\absw250\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\sl228\slmult1\pvpg\phpg\posx1024\posy4769\absh-864\absw250\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 11}
+\par
+\pard\plain\sl228\slmult1\pvpg\phpg\posx1024\posy4769\absh-864\absw250\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 10}
+\par
+\pard\plain\pvpg\phpg\posx1024\posy4769\absh-864\absw250\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\qj\pvpg\phpg\posx1024\posy6294\overlay\s22\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs19\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx1024\posy6629\absh-682\absw144\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4}
+\par
+\pard\plain\qj\sl228\slmult1\pvpg\phpg\posx1024\posy6629\absh-682\absw144\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\sl216\slmult1\pvpg\phpg\posx1024\posy6629\absh-682\absw144\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3}
+\par
+\pard\plain\qj\pvpg\phpg\posx1024\posy6629\absh-682\absw144\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 8}
+\par
+\pard\plain\pvpg\phpg\posx1028\posy7624\absh-694\absw237\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\sl228\slmult1\pvpg\phpg\posx1028\posy7624\absh-694\absw237\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 1}
+\par
+\pard\plain\sl228\slmult1\pvpg\phpg\posx1028\posy7624\absh-694\absw237\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 7}
+\par
+\pard\plain\pvpg\phpg\posx1028\posy7624\absh-694\absw237\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 10}
+\par
+\pard\plain\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5 OPTLOUT,1(394) - OPTLOUT
+ - PATIENT FILE LISTING PROGRAM - THOR}
+\par
+\pard\plain\tx311\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls37\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark52}
+{\*\bkmkend bookmark52}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLIS,1(393) - OPTLIST - PATIENT
+ FILE LISTING CONTROLLER}
+\par
+\pard\plain\tx311\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls37\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark53}
+{\*\bkmkend bookmark53}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OTRACT,1(392) - OTRACT - Transaction
+ file maintenance and scco}
+\par
+\pard\plain\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5 MESA,1(391) - Rl$ is a
+ representation of the random index}
+\par
+\pard\plain\tx311\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls39\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark54}
+{\*\bkmkend bookmark54}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPT,INS,1(390) - OPT.INS, Insurance
+ form printer, THOR-SUMMER/7}
+\par
+\pard\plain\tx311\tx1855\tx2013\tqr\tx2745\tx2961\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 8\'09\tab}
+\ls35\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark55}
+{\*\bkmkend bookmark55}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,1(389)\tab -\tab OBILLS\tab
+-\tab MASTER BILLING PROGRAM - THOR - 18-MA}
+\par
+\pard\plain\tx311\tx1855\tx2013\tqr\tx2745\tx2957\tqr\tx6538\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls39\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark56}
+{\*\bkmkend bookmark56}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OTRACT,1(388)\tab -\tab OTRACT\tab
+-\tab Transaction file maintenance and\tab acco}
+\par
+\pard\plain\tx311\tx1855\tx2013\tqr\tx2745\tx2957\tqr\tx6538\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls29\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark57}
+{\*\bkmkend bookmark57}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OTRACT,1(387)\tab -\tab OTRACT\tab
+-\tab Transaction file maintenance and\tab acco}
+\par
+\pard\plain\tx311\tx2919\tqr\tx6538\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5\tab OPTLOUT,1(386) - OPTLOUT\tab
+- PATIENT FILE LISTING PROGRAM -\tab THOR}
+\par
+\pard\plain\tx311\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls41\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark58}
+{\*\bkmkend bookmark58}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLIS,1(385) - OPTLIST - PATIENT
+ FILE LISTING CONTROLLER}
+\par
+\pard\plain\tx311\qj\sl216\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls41\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark59}
+{\*\bkmkend bookmark59}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OTRACT,1(384) - OTRACT - Transaction
+ file maintenance and acco}
+\par
+\pard\plain\tx311\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls43\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark60}
+{\*\bkmkend bookmark60}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 TESTP,1(383) - NO COMMENT LINES
+ FOR NAME}
+\par
+\pard\plain\qj\sl216\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5 OTRACT,1(382) - OTRACT
+ - Transaction file maintenance and acco}
+\par
+\pard\plain\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5 OTRACT,1(381) - OTRACT
+ - Transaction file maintenance and acco}
+\par
+\pard\plain\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5 QUEUE,1(380) - QUEUE,
+ 1irie-printer listing controller, THOR-D}
+\par
+\pard\plain\tx311\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls45\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark61}
+{\*\bkmkend bookmark61}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 BN,1(379) - BN - Banner program}
+\par
+\pard\plain\tx311\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls45\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark62}
+{\*\bkmkend bookmark62}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 RILID,1(378) - Resign and structure
+ for RILID}
+\par
+\pard\plain\tx311\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls47\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark63}
+{\*\bkmkend bookmark63}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 QUETOT,1(377) - QUETOT - Prints
+ ctueues recorded and total page}
+\par
+\pard\plain\tx311\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls45\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark64}
+{\*\bkmkend bookmark64}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 QUEUE,1(376) - QUEUE, line-printer
+ listing controller, THOR-D}
+\par
+\pard\plain\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5 OTRACT,1(375) - OTRACT
+ - Transaction file maintenance and acco}
+\par
+\pard\plain\tx311\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 2\'09\tab}
+\ls49\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark65}
+{\*\bkmkend bookmark65}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OTRACT - ORIGINAL PRINT WAS
+ NOT ASCII, RECORD DESTROYED}
+\par
+\pard\plain\tx311\qj\sl216\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls47\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark66}
+{\*\bkmkend bookmark66}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OTRACT,1(373) - OTRACT - Transaction
+ file maintenance and acco}
+\par
+\pard\plain\tx374\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 12\'09\tab}
+\ls3\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark67}
+{\*\bkmkend bookmark67}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 $A.PRTAX,1(372) - $A.PRTAX,
+ TAX TABLE MAINTENANCE, CVR, 3/9/77,}
+\par
+\pard\plain\tx311\tx1881\tx2102\tx2902\tqc\tx3362\tqr\tx4248\tx4452\tx5223\tx6036\tqr\tx6538\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339
+\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls43\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark68}
+{\*\bkmkend bookmark68}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLOUT,1(371)\tab -\tab OPTLOUT\tab
+-\tab PATIENT\tab FILE\tab LISTING\tab PROGRAM\tab -\tab THOR}
+\par
+\pard\plain\tx311\tx1881\tx2102\tx2902\tqc\tx3362\tqr\tx4248\tx4452\tx5223\tx6036\tqr\tx6538\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339
+\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark69}
+{\*\bkmkend bookmark69}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLOUT,1(370)\tab -\tab OPTLOUT\tab
+-\tab PATIENT\tab FILE\tab LISTING\tab PROGRAM\tab -\tab THOR}
+\par
+\pard\plain\tx311\tx1881\tx2097\tx2902\tqc\tx3362\tqr\tx4248\tx4448\tx5219\tx6028\tqr\tx6538\qj\sl223\slmult1\pvpg\phpg\posx1388\posy339
+\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls11\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark70}
+{\*\bkmkend bookmark70}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLOUT,1(369)\tab -\tab OPTLOUT\tab
+-\tab PATIENT\tab FILE\tab LISTING\tab PROGRAM\tab -\tab THOR}
+\par
+\pard\plain\tx311\tx1881\tx2102\tx2902\tqc\tx3362\tqr\tx4248\tx4452\tx5219\sl223\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865
+\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls11\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark71}
+{\*\bkmkend bookmark71}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLIST,1(368)\tab -\tab OPTLIST\tab
+-\tab PATIENT\tab FILE\tab LISTING\tab CONTROLLER}
+\par
+\pard\plain\tx311\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls15\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark72}
+{\*\bkmkend bookmark72}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DISS,1(367) - FOR A=0 TO 256\}PRINT
+ A,CL$(A)J NEXT A}
+\par
+\pard\plain\tx374\qj\sl223\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 13\'09\tab}
+\ls3\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark73}
+{\*\bkmkend bookmark73}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OST.LAB,2(366) - OST.LAB Surgical
+ Laboratory, SHACK, minor edit}
+\par
+\pard\plain\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 12 OPT.LAE,2(365) - OPT.LAB
+ Cytology Laboratory, SHACK, Minor edit}
+\par
+\pard\plain\tx311\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls49\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark74}
+{\*\bkmkend bookmark74}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 ENU,1(364) - PRIMATIUES}
+\par
+\pard\plain\tx311\tx2902\tx4410\tx5215\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls41\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark75}
+{\*\bkmkend bookmark75}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,1(363) - OBILLS -\tab
+MASTER BILLING\tab PROGRAM\tab - THOR - 18-MA}
+\par
+\pard\plain\tx311\tx2902\tx4414\tx5219\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls29\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark76}
+{\*\bkmkend bookmark76}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,1(362) - OBILLS -\tab
+MASTER BILLING\tab PROGRAM\tab - THOR - 18-MA}
+\par
+\pard\plain\tx311\tx2902\tx4406\tx5215\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls49\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark77}
+{\*\bkmkend bookmark77}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLOUT,1(361) - OPTLOUT\tab
+- PATIENT FILE\tab LISTING\tab PROGRAM - THOR}
+\par
+\pard\plain\tx311\tx2898\tx4406\tx5215\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls51\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark78}
+{\*\bkmkend bookmark78}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLIST,1(360) - OPTLIST\tab
+- PATIENT FILE\tab LISTING\tab CONTROLLER}
+\par
+\pard\plain\tx311\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls51\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark79}
+{\*\bkmkend bookmark79}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPT.INS,1(359) - OPT.INS, Insurance
+ form printer, THOR-SUMMER/7}
+\par
+\pard\plain\tx311\tqr\tx1833\tx2030\tqr\tx2745\tx2940\tqr\tx4248\tx4456\tx5215\tqr\tx5950\tqr\tx5973\tqr\tx6538\qj\sl223\slmult1\pvpg\phpg
+\posx1388\posy339\absh-11046\absw6865\overlay\s21\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls39\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark80}
+{\*\bkmkend bookmark80}
+{\cs17\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,1(358)\tab -\tab OBILLS\tab
+-\tab MASTER\tab BILLING\tab PROGRAM\tab -\tab THOR\tab -\tab 18-MA}
+\par
+\pard\plain\tx311\tqr\tx1833\tx2025\tqr\tx2745\tx2936\tqr\tx4248\tx4452\tx5210\tqr\tx5950\tqr\tx5968\tqr\tx6538\qj\pvpg\phpg\posx1388\posy339
+\absh-11046\absw6865\overlay\s21\f0
+{\listtext\pard\plain 6\'09\tab}
+\ls51\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark81}
+{\*\bkmkend bookmark81}
+{\cs17\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,1(357)\tab -\tab OBILLS\tab
+-\tab MASTER\tab BILLING\tab PROGRAM\tab -\tab THOR\tab -\tab 18-MA}
+\par
+\pard\plain\tx311\tqr\tx1833\tx2025\tqr\tx2745\tx2936\tqr\tx4248\tx4452\tx5210\tqr\tx5950\tqr\tx5968\tqr\tx6538\qj\sl228\slmult1\pvpg\phpg
+\posx1388\posy339\absh-11046\absw6865\overlay\s21\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls49\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark82}
+{\*\bkmkend bookmark82}
+{\cs17\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,1(355)\tab -\tab OBILLS\tab
+-\tab MASTER\tab BILLING\tab PROGRAM\tab -\tab THOR\tab -\tab 18-MA}
+\par
+\pard\plain\tx311\tqr\tx1833\tx2025\tqr\tx2745\tx2936\tqr\tx4248\tx4452\tx5210\tqr\tx5950\tqr\tx5968\tqr\tx6538\qj\sl223\slmult1\pvpg\phpg
+\posx1388\posy339\absh-11046\absw6865\overlay\s21\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls43\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark83}
+{\*\bkmkend bookmark83}
+{\cs17\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,1(354)\tab -\tab OBILLS\tab
+-\tab MASTER\tab BILLING\tab PROGRAM\tab -\tab THOR\tab -\tab 18-MA}
+\par
+\pard\plain\tx374\qj\sl223\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 10\'09\tab}
+\ls31\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark84}
+{\*\bkmkend bookmark84}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SOS,1(353) - SOS, Ascii file
+ editor From Dec-10 SOS, Thor-1}
+\par
+\pard\plain\tx311\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls51\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark85}
+{\*\bkmkend bookmark85}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 RUNOFF,1(352) - RUNOFF, Text
+ processing system from DEC-10 RUN}
+\par
+\pard\plain\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4 OPTLIST,1(351) - OPTLIST
+ - PATIENT FILE LISTING CONTROLLER}
+\par
+\pard\plain\tx311\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls53\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark86}
+{\*\bkmkend bookmark86}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,1(350) - AD$(4) WILL
+ CONTAIN THE ADDRESS LINES}
+\par
+\pard\plain\tx311\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls55\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark87}
+{\*\bkmkend bookmark87}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,1(349) - AD$(4) WILL
+ CONTAIN THE ADDRESS LINES}
+\par
+\pard\plain\tx311\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 9\'09\tab}
+\ls35\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark88}
+{\*\bkmkend bookmark88}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4A.GLJEL,0(348) - G/L JOURNAL
+ ENTRIES FILE LIST, 7/7/78}
+\par
+\pard\plain\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 12 SA.GLEJE,0(347) - G/L
+ ENTER JOURNAL ENTRIES, 7/7/78}
+\par
+\pard\plain\tx374\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 10\'09\tab}
+\ls35\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark89}
+{\*\bkmkend bookmark89}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 $A.GLTRA,0(346) - G/L ACCOUNTING
+ TRANSACTION TRANSFER, 7/7/78}
+\par
+\pard\plain\tx311\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls57\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark90}
+{\*\bkmkend bookmark90}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,1(345) - AD$(4) WILL
+ CONTAIN THE ADDRESS LINES}
+\par
+\pard\plain\tx311\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls37\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark91}
+{\*\bkmkend bookmark91}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 RUNOFF,1(344) - RUNOFF, Text
+ processing system from DEC-10 RUN}
+\par
+\pard\plain\tx311\tqr\tx1833\tx2042\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 8\'09\tab}
+\ls37\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark92}
+{\*\bkmkend bookmark92}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OCFMNT,1(343)\tab -\tab OCFMNT}
+\par
+\pard\plain\tx311\tqr\tx1833\tx2047\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls57\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark93}
+{\*\bkmkend bookmark93}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OCFMNT,1(342)\tab -\tab OCFMNT}
+\par
+\pard\plain\tx311\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls55\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark94}
+{\*\bkmkend bookmark94}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OCFMAINT,1(341) - OCFMAINT}
+\par
+\pard\plain\tx311\tqr\tx1833\tx2051\tqr\tx2745\tx2961\tqc\tx4024\tqc\tx5138\tqr\tx5950\tqr\tx6538\qj\pvpg\phpg\posx1388\posy339\absh-11046
+\absw6865\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls55\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark95}
+{\*\bkmkend bookmark95}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTACT,1(340)\tab -\tab OPTACT\tab
+-\tab Laboratory\tab accounting\tab program\tab -\tab THOR}
+\par
+\pard\plain\tx311\tqr\tx1833\tx2051\tqr\tx2745\tx2961\tqc\tx3744\tqc\tx4528\tqr\tx5950\tqr\tx5994\tqr\tx6538\qj\pvpg\phpg\posx1388\posy339
+\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 5\tab OPTFIL,1(339)\tab
+-\tab OPTFIL\tab -\tab PATIENT\tab FILE\tab MAINTENANCE\tab MENU\tab -\tab THOR}
+\par
+\pard\plain\tx311\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls53\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark96}
+{\*\bkmkend bookmark96}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 ALPSTATS,1(338) - ALPSTATS,
+ ALPHA DOCTOR TOTAL COMPUTATION, THOR}
+\par
+\pard\plain\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4 BK\u9830 ? PRO, 1 (337)
+ - BK.PRO - Bank, deposit program rewrite - THOR}
+\par
+\pard\plain\tx311\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls59\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark97}
+{\*\bkmkend bookmark97}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OBILLS,!(336) - AD$(4) WILL
+ CONTAIN THE ADDRESS LINFS}
+\par
+\pard\plain\tx311\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls59\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark98}
+{\*\bkmkend bookmark98}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 OPTLIST,1(335) - OPTLIST -
+ PATIENT FILE LISTING CONTROLLER}
+\par
+\pard\plain\tx311\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls61\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark99}
+{\*\bkmkend bookmark99}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SURCRSS2,1(334) - SURCRSS2
+ - SURGICAL CROSS REFERENCE PROGRAM}
+\par
+\pard\plain\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 7 SURDOC,1(333) - SURDOC
+ - Spools out the doctor oriented lists}
+\par
+\pard\plain\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3 SURCROSS,1(332) - SURCROSS,
+ Surgical cross reference storage pro}
+\par
+\pard\plain\qj\sl228\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3 OPTLIST,1(331) - NO COMMENT
+ LINES FOR NAME}
+\par
+\pard\plain\qj\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 7 RUNOFF,1(330) - RUNOFF,
+ Text processing system from DEC-10 RUN}
+\par
+\pard\plain\tx311\qj\sl223\slmult1\pvpg\phpg\posx1388\posy339\absh-11046\absw6865\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls61\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark100}
+{\*\bkmkend bookmark100}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 MACRO,1(329) - THE LINE PARSER}
+\par
+\pard\plain\sl-1\slmult0\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid
+\sect
+\sectd\ltrsect\headery0\footery3\colsx720\sectlinegrid360\sftnbj\sftnrstcont
+\pard\plain\qj\pvpg\phpg\posx215\posy369\absh-3409\absw1097\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 03/05/80 1 03/05/80 3 03/04/80
+ 5 03/01/80 1 03/01/80 2 02/29/80 2 02/24/80 2 02/24/80 9 02/24/80 2 02/24/80 3 02/24/80 1 02/24/80 1 02/24/80 2 02/24/80
+ 2 02/24/80 2 02/24/80 2 02/24/80 2 02/24/80 3 02/24/80 7 02/24/80 6}
+\par
+\pard\plain\li240\fi20\sl259\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3 MACRO?1(325) - DATA MNEMONIC?BYTES?R
+EGTYPE?MULTYPE?MASK OCTAL 5 PROGRAM?1(324) - PROGRAM? Pondsystem main menu? THOR summer/79}
+\par
+\pard\plain\tx547\li240\fi20\sl259\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\f0
+{\listtext\pard\plain 7\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark101}
+{\*\bkmkend bookmark101}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SURDOC?1(323) - SURDOC - Spools
+ out the doctor oriented lists}
+\par
+\pard\plain\tx547\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls63\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark102}
+{\*\bkmkend bookmark102}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SORTMGM?1(322) - SORTMGM? take
+ sorted files and merdem? THOR 1/}
+\par
+\pard\plain\tx547\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls63\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark103}
+{\*\bkmkend bookmark103}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 SORT?1(321) - SORT? General
+ purpose larde file sorter? THOR}
+\par
+\pard\plain\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4 ARCFILM?1(320) - ARCFILM
+ - Archive file maintenance}
+\par
+\pard\plain\li240\fi20\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4 ERRORS?1(319) - ERRORS
+ - Makes error listing to printer - THOR 11 EDITOR?1(318) - EDITOR - PONDSYSTEM SURGICAL REPORT EDITOR - 1}
+\par
+\pard\plain\tx547\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls65\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark104}
+{\*\bkmkend bookmark104}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DT.PROG?1(317) - DT.PROG -
+ SURGICAL SORT AND MERGE - SHACK}
+\par
+\pard\plain\tx547\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls65\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark105}
+{\*\bkmkend bookmark105}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DOC.ACT?1(316) - DOC.ACT -
+ AGED ACCOUNTS RECIEVABLE - SHACK}
+\par
+\pard\plain\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 3 DISKU?1(315) - DISKU -
+ Computes disk usage statistics - THOR}
+\par
+\pard\plain\tx547\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\f0
+{\listtext\pard\plain 3\'09\tab}
+\ls67\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark106}
+{\*\bkmkend bookmark106}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DISKCOPY?1(314) - DISKCOPY
+ - Load disk copy program - PERTEC}
+\par
+\pard\plain\tx547\qj\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls67\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark107}
+{\*\bkmkend bookmark107}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 DIRPROG?1(313) - DIRPROG -
+ Produce global directory file - PERT}
+\par
+\pard\plain\qj\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4 DIRLIST?1(312) - DIRLIST
+ - Original directory program - PERTEC}
+\par
+\pard\plain\qj\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4 DIRFORM?1(311) - DIRFORM
+ - Directory Screenins list - PERTEC -}
+\par
+\pard\plain\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 4 DIR?l(310) - DIR - Sorted
+ Disk Directories - PERTEC - Minor}
+\par
+\pard\plain\tx547\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\f0
+{\listtext\pard\plain 4\'09\tab}
+\ls69\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark108}
+{\*\bkmkend bookmark108}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 CORRES?1(309) - CORRES - Office
+ correspondence program - THOR}
+\par
+\pard\plain\tx547\li240\fi20\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\f0
+{\listtext\pard\plain 5\'09\tab}
+\ls69\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark109}
+{\*\bkmkend bookmark109}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 CODESRT?1(308) - CODESRT -
+ CYTOLOGY DAILY RECIEVABLE? - SHACK - 9 CANSUR?1(307) - CANSUR - Canned surgical program - THOR}
+\par
+\pard\plain\tx547\qj\fi240\sl230\slmult1\pvpg\phpg\posx1312\posy339\absh-3443\absw7018\overlay\s20\f0
+{\listtext\pard\plain 8\'09\tab}
+\ls23\ilvl0\aspalpha\aspnum\faauto\adjustright\cgrid
+{\*\bkmkstart bookmark110}
+{\*\bkmkend bookmark110}
+{\cs15\lang1033\langfe1033\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 CANPOC?1(306) - CANPOC purely
+ canned surgical reports? THOR-1/}
+\par
+\pard\plain\pvpg\phpg\posx1312\posy3922\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 647 951}
+\par
+\pard\plain\fi-1060\pvpg\phpg\posx1312\posy4257\absh-360\absw7018\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 Total paper overhead from
+ Queue is m\'AB*9.51}
+\par
+\pard\plain\fi-1060\pvpg\phpg\posx1312\posy4257\absh-360\absw7018\overlay\s20\aspalpha\aspnum\faauto\adjustright\cgrid
+{\cs15\lang1033\langfe1033\f0\b0\i0\scaps0\strike0\cf1\expndtw0\charscalex100\dn0\fs15\afs15\ul0 Total boxes of paper used
+ is 0.3522}
+\par
+\pard\plain\sl-1\slmult0\wrapdefault\aspalpha\aspnum\faauto\adjustright\cgrid
+\par
+}
