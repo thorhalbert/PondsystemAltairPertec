@@ -1,6 +1,8 @@
 # PondsystemAltairPertec
 Pathology Practice in MITS Altair Disk Extended Basic
 
+![alt PCC Business System](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Altair8800b.jpg/280px-Altair8800b.jpg)
+
 In the late 70s, my next door neighbor, Dr. Norman Pond, had purchased a tricked out PERTEC/MITS 300 Business System (https://en.wikipedia.org/wiki/Pertec_Computer) with (I think) a SOROC Monitor and a LA-180 printer.  CPU was a MITS Altair 8080B (turnkey) full of memory.  It had two of the big hard drive modules (a fixed disk with a top loader removable disk--looked like a DEC RL01/RL02).  He also had the small company he bought it from (Computer Shack in Albuquerque) write the beginning of a pathology practice, then the company went out of business.   So, he had an expensive system that didn't really work very well.  
 
 I was in a rather unique position, as I lived next door and (iirc) was a Senior in High School.  I had built a lot of initial skill as a programmer working on the big DEC Mainframe that our school system had, so he had me look at his machine.   I went on to work for him, mostly part time for a few years.  He paid me $8/hour in 1979.  For a kid right out of High School, that was a damn good paycheck.   I pretty much rewrote his system and made it work.  I also wrote several utilities to emulate the functionality I liked from TOPS-10, like print queueing, a SOS-like editor, and an RUNOFF-like markdown formatter.
